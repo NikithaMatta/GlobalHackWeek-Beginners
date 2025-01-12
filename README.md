@@ -9,6 +9,7 @@ Each challenge is saved in its own folder with a dedicated `README.md` file that
 | Challenge Number | Description | Folder Link |
 | ---------------- | ----------- | ----------- |
 | S.No. | Challenge Description | [Challenge](Challenge) |
+| 1 | Sorting Method | [QuickSort](Challenge01/QuickSort.java) |
 | ... | _More Challenges Coming Soon_ | _To Be Added_ |
 
 > **Note:** As each new challenge is completed, it will be added to this table along with links to its folder and README.
